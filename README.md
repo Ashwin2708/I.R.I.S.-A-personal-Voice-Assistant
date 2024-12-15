@@ -2,10 +2,10 @@
 
 ## Installation
 
-- you just need to run below cmd.
-- it will be better if you creat virtual environment
-- download all the required pips from the cmd file
-- and run the GUI.py file
+- You just need to run below cmd.
+- It will be better if you creat virtual environment
+- Download all the required pips from the cmd file
+- And run the GUI.py file
 
 ## Open Source Connection
 - Make a new file with a .py extension
